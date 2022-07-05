@@ -25,6 +25,9 @@ h1 span{
 .half-width img{
     width: 100%;
 }
+.p-description{
+    margin-bottom: 25px;
+}
 .anchor-button{
     text-decoration: none;
     background: linear-gradient(45deg, lightsalmon, tomato);
